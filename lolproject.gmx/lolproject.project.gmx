@@ -106,6 +106,7 @@
   <backgrounds name="background">
     <backgrounds name="Intro Airship">
       <background>background\room1_background</background>
+      <background>background\background20</background>
       <background>background\room1_foreground</background>
       <background>background\room2_background</background>
       <background>background\room2_foreground</background>
